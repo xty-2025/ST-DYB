@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DyHNet-master/.idea/DyHNet-master.iml" filepath="$PROJECT_DIR$/../DyHNet-master/.idea/DyHNet-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DySAT_pytorch10_27copy.iml" filepath="$PROJECT_DIR$/.idea/DySAT_pytorch10_27copy.iml" />
+      <module fileurl="file://$USER_HOME$/论文/图神经网络/静态图/模型代码/GCN-PyTorch-master/.idea/GCN-PyTorch-master.iml" filepath="$USER_HOME$/论文/图神经网络/静态图/模型代码/GCN-PyTorch-master/.idea/GCN-PyTorch-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HMSG-main/.idea/HMSG-main.iml" filepath="$PROJECT_DIR$/../HMSG-main/.idea/HMSG-main.iml" />
+      <module fileurl="file://$USER_HOME$/论文/图神经网络/异构图/模型代码/RGCN-master/.idea/RGCN-master.iml" filepath="$USER_HOME$/论文/图神经网络/异构图/模型代码/RGCN-master/.idea/RGCN-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../XZZDynHHH_split_att_fft/.idea/XZZDynHHH.iml" filepath="$PROJECT_DIR$/../XZZDynHHH_split_att_fft/.idea/XZZDynHHH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sild(dblp_four_area)/.idea/sild(debug success).iml" filepath="$PROJECT_DIR$/../sild(dblp_four_area)/.idea/sild(debug success).iml" />
+    </modules>
+  </component>
+</project>

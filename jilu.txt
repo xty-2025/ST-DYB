@@ -1,0 +1,2 @@
+3.4  gat+ fourier
+3.6  gat+self-att and fourier
