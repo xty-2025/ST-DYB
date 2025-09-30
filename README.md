@@ -1,15 +1,13 @@
-# DySAT: Deep Neural Representation Learning on Dynamic Graphs via Self-Attention Networks
-This is a pytorch implementation of DySAT. All codes are adapted from official [implementation in TensorFlow](https://github.com/aravindsankar28/DySAT). This implementation is only tested using dataset Enron, and the results is inconsistent with official results (better than that). Code review and contribution is welcome!
+# Spectral-Temporal Dual View Graph Convolutional Networks: A Deep Learning Framework for Dynamic Bipartite Graphs
+This is a pytorch implementation of ST-DYB. This implementation is only tested using dataset Amazon-Beauty.
 
-# Raw Data Process
+# Data
 ```
-cd raw_data/Enron
-pyhton process.py
+cd data/beauty
 ```
-The processed data will stored at 'data/Enron"
 
 # Training
 ```
-python train --dataset Enron --time_steps 16
+python train train_beauty_den_mono_homo_aucisorg.py
 ```
 
